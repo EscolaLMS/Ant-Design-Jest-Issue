@@ -1,0 +1,27 @@
+{
+  "name": "ts-antd-jest-issue",
+  "version": "1.0.0",
+  "description": "Jest and antd ESM wtf?",
+  "main": "index.js",
+  "license": "MIT",
+  "babel": {
+    "presets": [
+      "@babel/preset-env",
+      "@babel/preset-react",
+      "@babel/preset-typescript"
+    ]
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.13.12",
+    "@babel/preset-react": "^7.12.13",
+    "@babel/preset-typescript": "^7.13.0",
+    "@types/jest": "^26.0.21"
+  },
+  "dependencies": {
+    "@ant-design/pro-layout": "^6.15.4",
+    "antd": "^4.14.1",
+    "jest": "^26.6.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
