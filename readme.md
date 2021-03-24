@@ -6,7 +6,7 @@
 
 ## Duplicating THE issue
 
-See current status ![jest unit test](https://github.com/EscolaLMS/Ant-Design-Jest-Issue/actions/workflows/unit.yml/badge.svg)
+See current status [![jest unit test](https://github.com/EscolaLMS/Ant-Design-Jest-Issue/actions/workflows/unit.yml/badge.svg)](https://github.com/EscolaLMS/Ant-Design-Jest-Issue/actions/workflows/unit.yml)
 
 Run `yarn test` that gets you into
 
