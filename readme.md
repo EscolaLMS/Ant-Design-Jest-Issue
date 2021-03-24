@@ -1,10 +1,12 @@
-# Typescript/Jest error with AntDesign.Pro
+# 💩 Typescript/Jest error with AntDesign.Pro 💩
 
 > Jest does not support esm modules, and Ant Design uses them.
 
 [https://ant.design/docs/react/use-with-create-react-app#Test-with-Jest](https://ant.design/docs/react/use-with-create-react-app#Test-with-Jest)
 
-Duplicate issue
+## Duplicating THE issue
+
+See current status ![jest unit test](https://github.com/EscolaLMS/Ant-Design-Jest-Issue/actions/workflows/unit.yml/badge.svg)
 
 Run `yarn test` that gets you into
 
@@ -38,4 +40,4 @@ FAIL  src/components/not-working/index.test.tsx
       at Runtime.createScriptFromCode (node_modules/jest-runtime/build/index.js:1350:14)
 ```
 
-😒😒😒😒😒😒😒😒😒😒
+# 😒 💩 😒 💩 😒 💩 😒 💩 😒 💩 😒 💩
