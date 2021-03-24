@@ -41,3 +41,9 @@ FAIL  src/components/not-working/index.test.tsx
 ```
 
 # 😒 💩 😒 💩 😒 💩 😒 💩 😒 💩 😒 💩
+
+## Solution
+
+- fix this to work with `jest`
+- find other js testing framework that generates covarage reports
+- all above is just for unit and integraion tests (e2e are fine)
